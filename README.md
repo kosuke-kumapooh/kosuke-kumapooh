@@ -6,7 +6,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosuke-kumapooh&layout=compact&theme=monokai)
 
 
-(This README.md referes to @mikkame https://github.com/mikkame 's profile. Also see their Qiita https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 .Thanks!)
+(This README.md referes to @mikkame https://github.com/mikkame 's profile. Also see their Qiita https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 . Thanks!)
 
 
 <!--
